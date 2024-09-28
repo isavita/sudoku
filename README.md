@@ -18,3 +18,6 @@ This is a simple Sudoku puzzle game implemented in Python using Pygame.
 
 ## Usage
 Run the game by executing:
+```
+python sudoku_game.py
+```
