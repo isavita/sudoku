@@ -1,0 +1,12 @@
+Here are some examples of how the game should look like:
+
+![Sudoku](assets/example5.png)
+
+![Sudoku](assets/example4.png)
+
+![Sudoku](assets/example3.png)
+
+![Sudoku](assets/example2.png)
+
+![Sudoku](assets/example1.png)
+
