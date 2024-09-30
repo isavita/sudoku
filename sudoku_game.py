@@ -42,4 +42,11 @@ def main():
         pygame.display.flip()
 
 if __name__ == "__main__":
+    print("Sudoku")
+    print(f"Width: {WIDTH}")
+    print(f"Height: {HEIGHT}")
+    print(f"Grid Size: {GRID_SIZE}")
+    print(f"Cell Size: {CELL_SIZE}")
+    print(f"Line Width: {LINE_WIDTH}")
+    print(f"Thick Line Width: {THICK_LINE_WIDTH}")
     main()
