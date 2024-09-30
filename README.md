@@ -1,6 +1,6 @@
 # Sudoku Puzzle Game
 
-This is a simple Sudoku puzzle game implemented in Python using Pygame.
+This is a simple Sudoku puzzle game implemented in Python using Pygame. It is a single-player game where the player can solve a randomly generated Sudoku puzzle.
 
 ## Features (Planned)
 - Display an empty 9x9 Sudoku board
@@ -18,3 +18,6 @@ This is a simple Sudoku puzzle game implemented in Python using Pygame.
 
 ## Usage
 Run the game by executing:
+```
+python sudoku.py
+```
